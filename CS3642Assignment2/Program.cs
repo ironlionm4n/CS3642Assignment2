@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using CS3642Assignment2;
+﻿using CS3642Assignment2;
 using System.Diagnostics;
 
 Board gameBoard = new Board();
